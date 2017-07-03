@@ -12,7 +12,7 @@ Blender addon to take a packed 3d printer plate STL and separate the bodies and 
 
 ## Use:
 
-* Set your scene output directory (you ___MUST___ do this as this will the the output directory, you will not be asked for an output directory. If you have no directory set, you'll see a big scary python error message.)
+* Set your scene output directory (you ___MUST___ do this as this will the the output directory, you will not be asked for an output directory. If you have no directory set, you'll see a big scary python error message.)![](https://github.com/ntoff/blender_split_bodies/blob/master/output.PNG)
 * Import your packed plate stl
 * Highlight it
 * Bring up the search menu and type "split bodies", click on it. Your file will (or _should_ if it worked) be split up into individual pieces and exported as separate STL's.
