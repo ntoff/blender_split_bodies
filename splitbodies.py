@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Separate Objects",
+    "name": "Export Separate Objects",
     "category": "Mesh",
     "author": "ntoff",
     "version": (0,0,1),
